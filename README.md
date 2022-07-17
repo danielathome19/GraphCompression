@@ -1,6 +1,6 @@
 # About
 This respository contains a new set of lossy and lossless graph compression techniques for external memory representation. To find out more, check out the provided research papers:
-  * "Graph Compression - Toward a Generalized Algorithm.pdf" (DOI: 10.5281/zenodo.6600816)
+  * "Graph Compression - Toward a Generalized Algorithm.pdf" (DOI: [10.5281/zenodo.6600816](https://doi.org/10.5281/zenodo.6600816))
  
 # Usage
 For data used in my experiments:
