@@ -22,13 +22,16 @@ Please use the issue tracker for the following purpose:
   * To suggest any improvements in existing features.
   * To suggest new features or structures or applications.
 
+# License
+The code is licensed under CC0 License 1.0.
+
 # Citation
 If you use this code for your research, please cite this project:
 ```
 @software{Szelogowski_GraphCompression_2022,
  author = {Szelogowski, Daniel},
  doi = {10.5281/zenodo.6600816},
- month = {5},
+ month = {May},
  title = {{GraphCompression}},
  license = {CC0-1.0},
  url = {https://github.com/danielathome19/GraphCompression},
