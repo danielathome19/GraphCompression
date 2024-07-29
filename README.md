@@ -27,7 +27,7 @@ The code is licensed under CC0 License 1.0.
 
 # Citation
 If you use this code for your research, please cite this project:
-```
+```bibtex
 @software{Szelogowski_GraphCompression_2022,
  author = {Szelogowski, Daniel},
  doi = {10.5281/zenodo.6600816},
